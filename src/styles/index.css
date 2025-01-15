@@ -1,3 +1,9 @@
+body {
+    background-image: url("https://img.freepik.com/foto-gratis/disposicion-escritorio-plano-espacio-copia_23-2148928165.jpg?t=st=1736943576~exp=1736947176~hmac=76e3a5b81be20edd0562097419f69ea61261d3a56bffac6d413379f11572f827&w=1380");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 .icon {
     display:none;
     color: rgb(255, 80, 80);
@@ -12,17 +18,13 @@ li:hover {
  
 .down-bar-1 {
    height: 10px;
-    border: 1px solid grey;
-    background-color: white;
-    opacity: 30%;
+    background-color: rgb(212, 212, 212);
 }
 
 
 .down-bar-2 {
     height: 10px;
-     border: 1px solid grey;
-     background-color: white;
-     opacity: 30%;
+     background-color:rgb(200, 200, 200)
  }
 
 
@@ -54,7 +56,7 @@ li:hover {
 
  .empty-message {
     font-family: "Oswald", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
  }
