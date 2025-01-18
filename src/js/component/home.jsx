@@ -1,7 +1,7 @@
 import React from "react";
 import TodoList from './TodoList'
 import Title from './Title'
-import Zindex from './Zindex'
+import Todo2 from './Todo2'
 
 //create your first component
 const Home = () => {
